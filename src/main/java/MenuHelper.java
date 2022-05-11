@@ -19,7 +19,7 @@ public class MenuHelper {
         menuElements.add(header);
         menuElements.add("1. Change resolver address");
         menuElements.add("2. Resolve hostname");
-        menuElements.add("3. Find hosts by hostname");
+        menuElements.add("3. Find hostnames by ip");
         menuElements.add("4. Quit");
         return menuElements;
     }
